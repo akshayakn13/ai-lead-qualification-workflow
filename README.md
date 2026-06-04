@@ -98,7 +98,7 @@ Google Sheets Storage
 
 Loom Demo:
 
-[(Add your Loom link here)](https://www.loom.com/share/e76e07f439e84c4695d7d858df3301be)
+https://www.loom.com/share/e76e07f439e84c4695d7d858df3301be
 
 ---
 
