@@ -98,7 +98,7 @@ Google Sheets Storage
 
 Loom Demo:
 
-(Add your Loom link here)
+[(Add your Loom link here)](https://www.loom.com/share/e76e07f439e84c4695d7d858df3301be)
 
 ---
 
@@ -125,6 +125,6 @@ Loom Demo:
 
 ## Author
 
-Anshu Kant
+Akshay Patel
 
 Building AI-powered workflow automations that help businesses reduce repetitive work and improve operational efficiency.
