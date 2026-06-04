@@ -146,4 +146,6 @@ https://www.loom.com/share/e76e07f439e84c4695d7d858df3301be
 
 Akshay Patel
 
-Building AI-powered workflow automations that help businesses reduce repetitive work and improve operational efficiency.
+Building workflow automation solutions using n8n, OpenAI, and Python.
+
+Interested in helping businesses reduce repetitive administrative work and improve operational efficiency..
