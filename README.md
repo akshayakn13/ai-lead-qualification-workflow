@@ -36,6 +36,25 @@ The result is a faster and more consistent qualification process.
 
 ---
 
+## Example Output
+
+Input Lead:
+
+Name: John Smith
+Company: ABC Marketing
+Budget: $5,000
+Need: Lead qualification automation
+
+Generated Analysis:
+
+Lead Score: 8/10
+
+Summary:
+ABC Marketing appears to be a strong fit for workflow automation services.
+
+Recommended Action:
+Schedule a discovery call within 24 hours.
+
 ## Workflow Architecture
 
 ```text
